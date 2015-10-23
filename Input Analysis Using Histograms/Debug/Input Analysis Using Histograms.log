@@ -1,0 +1,15 @@
+﻿Build started 10/23/2015 3:39:04 AM.
+     1>Project "c:\Users\Zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Input Analysis Using Histograms\Input Analysis Using Histograms.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\zelin\documents\visual studio 2015\projects\input analysis using histograms\input analysis using histograms\source.cpp(92): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\zelin\documents\visual studio 2015\projects\input analysis using histograms\input analysis using histograms\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Debug\Input Analysis Using Histograms.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Debug\Input Analysis Using Histograms.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Debug\Input Analysis Using Histograms.lib" /MACHINE:X86 Debug\Source.obj
+         Input Analysis Using Histograms.vcxproj -> c:\users\zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Debug\Input Analysis Using Histograms.exe
+     1>Done Building Project "c:\Users\Zelin\documents\visual studio 2015\Projects\Input Analysis Using Histograms\Input Analysis Using Histograms\Input Analysis Using Histograms.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.69
